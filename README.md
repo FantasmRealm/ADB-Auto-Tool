@@ -1,9 +1,12 @@
-markdown
 # ADB Auto Tool
 > 基于 ADB 指令集的轻量级 Android 设备自动化控制工具
 
-[![GitHub stars](https://img.shields.io/github/stars/FantasmRealm/ADB-Auto-Tool)](https://github.com/FantasmRealm/ADB-Auto-Tool/stargazers)
-[![GitHub license](https://img.shields.io/github/license/FantasmRealm/ADB-Auto-Tool)](https://github.com/FantasmRealm/ADB-Auto-Tool/blob/main/LICENSE)
+<div align="center">
+  <img src="https://img.shields.io/github/stars/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub stars">
+  <img src="https://img.shields.io/github/license/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub license">
+  <img src="https://img.shields.io/github/languages/top/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub top language">
+  <img src="https://img.shields.io/github/last-commit/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub last commit">
+</div>
 
 ---
 
@@ -33,7 +36,7 @@ markdown
 | `dist/` | 打包输出目录，里面的 `ADB_Auto_Tool.exe` 就是最终可执行文件 |
 | `PNG1.png` | 工具截图，用于 README 展示 |
 | `README.md` | 项目说明文档，就是你现在看到的这个文件 |
-| `许可证` | 项目开源许可证文件 |
+| `LICENSE` | 项目开源许可证文件 |
 
 > 注：日常使用时，只需保留 `dist/ADB_Auto_Tool.exe` 和三个 ADB 依赖文件即可，其他文件是开发和打包过程中产生的。
 
@@ -131,4 +134,3 @@ A: 这是 PyInstaller 打包的常见现象，并非病毒。请将 `ADB_Auto_To
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request 来改进这个项目！
-```
