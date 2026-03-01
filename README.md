@@ -1,4 +1,4 @@
-```markdown
+markdown
 # ADB Auto Tool
 > 基于 ADB 指令集的轻量级 Android 设备自动化控制工具
 
