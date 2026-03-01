@@ -2,10 +2,8 @@
 > 基于 ADB 指令集的轻量级 Android 设备自动化控制工具
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub stars">
-  <img src="https://img.shields.io/github/license/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub license">
-  <img src="https://img.shields.io/github/languages/top/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub top language">
-  <img src="https://img.shields.io/github/last-commit/FantasmRealm/ADB-Auto-Tool?style=for-the-badge" alt="GitHub last commit">
+  <img src="https://img.shields.io/github/stars/FantasmRealm/ADB-Auto-Tool" alt="GitHub stars">
+  <img src="https://img.shields.io/github/license/FantasmRealm/ADB-Auto-Tool" alt="GitHub license">
 </div>
 
 ---
